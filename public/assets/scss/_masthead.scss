@@ -34,7 +34,9 @@ header.masthead {
     z-index: 0;
     position: absolute;
     border-radius: 100%;
-    background: linear-gradient(0deg, $primary 0%, $secondary 100%);
+    //background: linear-gradient(0deg, $primary 0%, $secondary 100%);
+
+    background: linear-gradient(0deg, #F38020 0%, #AA3701 100%);
   }
   .bg-circle-1 {
     height: 90rem;

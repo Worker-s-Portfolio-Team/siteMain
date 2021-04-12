@@ -1,7 +1,0 @@
-name = "worker-concerto"
-type = "webpack"
-workers_dev = true
-
-[site]
-bucket = "./public"
-entry-point = "workers-site"

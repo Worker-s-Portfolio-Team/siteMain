@@ -14,6 +14,4 @@ or
 - Run `npm install` to install all the project dependencies
 
 ### Step 3
-- Duplicate `wrangler.toml.example` to `wrangler.toml`
-- Edit `wrangler.toml` to fill in correct values
-- Run ```wrangler publish``` or deploy site via your usual deployment method
+Deploy site via your usual deployment method

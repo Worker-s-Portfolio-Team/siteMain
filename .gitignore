@@ -1,1 +1,8 @@
-node_modules
+dist
+/node_modules
+/vendor
+/public/assets/.sass-cache
+/.idea
+/.vscode
+/nbproject
+wrangler.toml
